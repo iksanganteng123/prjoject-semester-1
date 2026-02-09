@@ -1,1 +1,1 @@
-# prjoject-semester-1
+# project-semester-1
